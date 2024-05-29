@@ -1,4 +1,4 @@
 const name = "sanju"
-var age = 23
+let age = 23
 
 console.table([name, age]);
