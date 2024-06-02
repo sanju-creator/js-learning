@@ -1,3 +1,6 @@
+/* Memory concept
+ stack->(primitives value: numbers, booleans, string.[you give a copy of value]) 
+ Heap->(Non primitives value: object, function [you give a original value])*/
 let myYoutubeName = "sanju"
 
 let anotherName = myYoutubeName
